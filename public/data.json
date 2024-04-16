@@ -1,0 +1,35 @@
+[
+    {
+      "id": 1,
+      "name": "Patata Monalisa",
+      "author": "yukio mishima",
+      "price": 17,
+      "img": "https://cdn0.ecologiaverde.com/es/posts/7/9/6/patata_monalisa_2697_1_600.webp",
+      "quanty": 1
+    },
+    {
+      "id": 2,
+      "name": "Patata Red Pontiac",
+      "author": "franz kafka",
+      "price": 45,
+      "img": "https://cdn0.ecologiaverde.com/es/posts/7/9/6/patata_red_pontiac_2697_5_600.webp",
+      "quanty": 1
+    },
+  
+    {
+      "id": 3,
+      "name": "Patata Kennebec",
+      "author": "pablo neruda",
+      "price": 27,
+      "img": "https://cdn0.ecologiaverde.com/es/posts/7/9/6/patata_kennebec_o_gallega_2697_3_600.webp",
+      "quanty": 1
+    },
+    {
+      "id": 4,
+      "name": "Patata Vitelotte",
+      "author": "don Miguel Ruiz",
+      "price": 32,
+      "img": "https://cdn0.ecologiaverde.com/es/posts/7/9/6/patata_vitelotte_uno_de_los_tipos_de_papas_mas_raros_2697_8_600.webp",
+      "quanty": 1
+    }
+  ]
